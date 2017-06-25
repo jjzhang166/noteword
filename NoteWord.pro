@@ -29,3 +29,8 @@ FORMS    += mainwindow.ui \
 
 RESOURCES += \
     src.qrc
+
+DISTFILES += \
+    My.rc
+
+RC_ICONS =icon.ico
