@@ -1,2 +1,2 @@
 #NoteWord
-Qt编写的Linux下的文本编辑器，提供linux下的可执行文件及相关资源在build-NoteWord-unknown-Release文件夹中，可以直接下载使用，Windows下的可执行文件可自己下载源代码（NoteWord即为项目源代码和图标资源）进行编译缺少的部分资源在build-NoteWord-unknown-Release文件夹中。
+Qt编写的Linux下的文本编辑器，提供linux下的可执行文件及相关资源在附件build-NoteWord-unknown-Release.zip压缩包中，可以直接下载使用，Windows下的可执行文件可自己下载源代码（NoteWord即为项目源代码和图标资源）进行编译缺少的部分资源在build-NoteWord-unknown-Release.zip压缩包中。
